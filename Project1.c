@@ -58,19 +58,19 @@ int main()
             // Conversion of Dollar to Different Currencies
         case 2:
             taka = amount * 94;
-            printf("\n%.2f Dollar =  %.2f taka", amount, taka);
+            printf("\n%.2f Dollar =  %.2f Taka", amount, taka);
 
             rupee = amount * 82.32;
-            printf("\n%.2f Dollar =  %.2f rupee", amount, rupee);
+            printf("\n%.2f Dollar =  %.2f Rupee", amount, rupee);
 
             pound = amount * 0.82;
-            printf("\n%.2f Dollar =  %.2f pound", amount, pound);
+            printf("\n%.2f Dollar =  %.2f Pound", amount, pound);
 
             euro = amount * 0.95;
-            printf("\n%.2f Dollar =  %.2f euro", amount, euro);
+            printf("\n%.2f Dollar =  %.2f Euro", amount, euro);
 
             yen = amount * 166.54;
-            printf("\n%.2f Dollar =  %.2f yen", amount, yen);
+            printf("\n%.2f Dollar =  %.2f Yen", amount, yen);
             break;
             // Conversion of Pound to Different Currencies
         case 3:
